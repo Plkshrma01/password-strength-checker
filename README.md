@@ -26,7 +26,7 @@ You can download it from:
 
 ### 🔁 Step 3: Run
 ```bash
-python password_checker.py
+python password_checker_gui.py
 ---
 
 ## 👤 Author
