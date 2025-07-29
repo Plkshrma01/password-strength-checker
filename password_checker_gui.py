@@ -1,3 +1,13 @@
+"""
+Password Strength Checker GUI
+Author: Palak Sharma
+GitHub: https://github.com/Plkshrma01/password-strength-checker
+Created: July 2025
+
+Description:
+This is a beginner-friendly password strength checker built using Python and Tkinter.
+It checks for password entropy, complexity, and compares against the RockYou blacklist.
+"""
 import tkinter as tk
 from tkinter import messagebox
 import re
