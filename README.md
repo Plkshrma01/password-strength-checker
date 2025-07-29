@@ -27,3 +27,10 @@ You can download it from:
 ### 🔁 Step 3: Run
 ```bash
 python password_checker.py
+---
+
+## 👤 Author
+
+**Palak Sharma**  
+[GitHub Profile](https://github.com/Plkshrma01)  
+Passionate about cybersecurity, Python development, and building practical tools that solve real problems.
